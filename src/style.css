@@ -1,0 +1,15 @@
+/* style.css */
+/* Simplified styles - just basic styling for the test containers */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+div {
+    margin-bottom: 2rem;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
